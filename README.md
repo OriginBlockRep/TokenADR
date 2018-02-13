@@ -14,10 +14,10 @@ Folder Structure
 
 You shall see the following files and directories:
 
-      TADR/                smart-contract token TADR
-      Crowdsale/           crowdsale smart-contract 
-      Proxy/               proxy smart-contract for crowdsale
-      Depo/                smart-contract Cross-platform Depositary receipts      
+     /Dapp/src/TokenAdrToken.sol                       smart-contract token TADR
+     /Dapp/src/TokenAdrTokenSale.sol                   crowdsale smart-contract 
+     /Dapp/src/TokenAdrTokenSaleProxy.sol              proxy smart-contract for crowdsale
+     /Dapp/src/TokenAdrStorage.sol                     smart-contract Cross-platform Depositary receipts      
       README               this file
  
 WHAT'S NEXT
