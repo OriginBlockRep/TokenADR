@@ -18,7 +18,7 @@ You shall see the following files and directories:
      /Dapp/src/TokenAdrTokenSale.sol                   crowdsale smart-contract 
      /Dapp/src/TokenAdrTokenSaleProxy.sol              proxy smart-contract for crowdsale
      /Dapp/src/TokenAdrStorage.sol                     smart-contract Cross-platform Depositary receipts      
-      README               this file
+     README                                            this file
  
 WHAT'S NEXT
 -----------
