@@ -1,7 +1,7 @@
 # TokenADR
 tokenadr.com
 
-Cross-platform вepositary receipts
+Cross-platform depositary receipts
 ==================================
 
 Thank you for your interest in our project.
